@@ -42,3 +42,11 @@ pre {
 ul, ol {
   line-height: 1.8;
 }
+
+a {
+  color: #4fc3f7;
+}
+
+a:visited {
+  color: #4fc3f7;
+}
